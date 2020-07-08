@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
+  padding: 1px 0;
 }
 
 #header.header-scrolled, #header.header-inner-pages {
@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 30px 0;
   overflow: hidden;
 }
 
@@ -616,7 +616,7 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features {
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 .features .icon-box {
@@ -1056,7 +1056,7 @@ section {
 --------------------------------------------------------------*/
 .team {
   background: #fff;
-  padding: 100px 0;
+  padding: 30px 0;
 }
 
 .team .member {
@@ -1118,9 +1118,9 @@ section {
 
 .team .member .member-info span {
   display: block;
-  font-size: 13px;
-  font-weight: 400;
-  color: #aaaaaa;
+  font-size: 15px;
+  font-weight: 500;
+  color: #655b5b;
 }
 
 .team .member .member-info p {
